@@ -10,5 +10,4 @@
 
 4. Follow the steps to run the bot in emulator: https://github.com/LuciaHarcekova/ChatGPTMSBotFrameworkWithOpenAI/tree/master/ChatGPTApenAIBot
 
-
 <img src="https://github.com/LuciaHarcekova/ChatGPTMSBotFrameworkWithOpenAI/blob/master/assets/BotInEmulator.png" alt="solution_in_emulator"/>
